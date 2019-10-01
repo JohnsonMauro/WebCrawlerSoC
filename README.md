@@ -4,6 +4,7 @@ POC criada para demonstrar web crawler em site com RECAPTCHA,
 Iniciando o projeto:
 
 npm install
+
 node index_api.js
 
 http://localhost:3000/detran?placa={PLACA}
